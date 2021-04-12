@@ -11,4 +11,4 @@ I'm Jack!
 - 💬 Ask me about how much time I spend spinning Jenkins up and trying to figure out optimal k8s quotas.
 - 💬 Don't ask me about how much time I spend spinning Jenkins down and trying to figure out optimal k8s quotas.
 - 📫 How to reach me: Here!
-- ⚡ Fun fact: I have about 8 Raspberry Pi's of all generations, all of which are (currently) doing precisely nothing.
+- ⚡ Fun fact: I have about 8 Raspberry Pi's of all generations, most of which are (currently) doing precisely nothing, aside from the ones running as a k3s cluster!
